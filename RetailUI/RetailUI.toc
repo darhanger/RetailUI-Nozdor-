@@ -1,0 +1,21 @@
+## Interface: 30300
+## Title: RetailUI (Nozdor)
+## Notes: Изменяет ваш пользовательский интерфейс, чтобы он выглядел как на ритейле.
+## Author: delayy
+## Version: 1.0.0
+## SavedVariables: RetailUIDB
+
+Libs.xml
+
+Core.lua
+Config.lua
+Atlas.lua
+NineSlice.lua
+
+Modules\ActionBar.lua
+Modules\UnitFrame.lua
+Modules\EditorMode.lua
+Modules\CastingBar.lua
+Modules\Minimap.lua
+Modules\QuestTracker.lua
+Modules\BuffFrame.lua
